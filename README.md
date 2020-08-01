@@ -16,6 +16,11 @@
 
 I'm a Web Developer 💚. 
 
+Able to learn anything, I am always looking to evolve in Web development, creating systems, APIs, Web pages.
+Using Javascript, both on the front-end with ReactJS, Redux, CSS, Sass and Bootstrap
+and on the backend with NodeJS, Express.js MongoDB, Firebase. I also have knowledge in PHP, OOP, MVC and relational databases like MYSQL.
+I am always open to learning new technologies, I am currently learning more about automated tests and typescript.
+
 ----
 
 **Languages and Tools:**  
