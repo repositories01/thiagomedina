@@ -33,4 +33,4 @@ I'm a Web Developer 💚.
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github 
    
-![Thiagomedina GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryclenio&show_icons=true)
+![Thiagomedina GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiagomedina&show_icons=true)
