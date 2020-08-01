@@ -14,12 +14,16 @@
 ---- 
 
 
+
 I'm a Web Developer 💚. 
 
 Able to learn anything, I am always looking to evolve in Web development, creating systems, APIs, Web pages.
 Using Javascript, both on the front-end with ReactJS, Redux, CSS, Sass and Bootstrap.
-On the backend with NodeJS, Express.js MongoDB, Firebase. I also have knowledge in PHP, OOP, MVC and relational databases like MYSQL.
+On the backend with NodeJS, Express.js MongoDB, Firebase. 
+I also have knowledge in PHP, OOP, MVC and relational databases like MYSQL.
 I am always open to learning new technologies, I am currently learning more about automated tests and typescript.
+
+
 
 ----
 
@@ -29,7 +33,7 @@ I am always open to learning new technologies, I am currently learning more abou
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
