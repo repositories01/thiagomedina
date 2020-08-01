@@ -1,4 +1,4 @@
-### 👋 Hello World, I'm Thiago!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+### Hello World, I'm Thiago!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 <a target="_blank" href="https://www.linkedin.com/in/thiagomedina-/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -15,8 +15,7 @@
 
 
 
-I'm a Web Developer 💚. 
-
+I'm a Web Developer. 
 Able to learn anything, I am always looking to evolve in Web development, creating systems, APIs, Web pages.
 Using Javascript, both on the front-end with ReactJS, Redux, CSS, Sass and Bootstrap.
 On the backend with NodeJS, Express.js MongoDB, Firebase. 
