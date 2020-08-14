@@ -39,6 +39,6 @@ I am always open to learning new technologies, I am currently learning more abou
 
 ----
 
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github 
+#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
    
-![Thiagomedina GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiagomedina&show_icons=true)
+[//]: <![Thiagomedina GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiagomedina&show_icons=true)>
