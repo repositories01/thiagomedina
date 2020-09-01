@@ -15,7 +15,7 @@
 
 
 
-I'm a Web Developer. <br/>
+I'm a Front-End Developer. <br/>
 Able to learn anything, I am always looking to evolve in Web development, creating systems, APIs and Web pages.<br/>
 Using Javascript both on the front-end with ReactJS, Redux, CSS, Sass and Bootstrap.<br/>
 And the backend with NodeJS, Express.js MongoDB, Firebase. <br/>
