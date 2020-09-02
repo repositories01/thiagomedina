@@ -39,4 +39,5 @@ I am always open to learning new technologies, I am currently learning more abou
 
 
    
+
 [//]: <![Thiagomedina GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiagomedina&show_icons=true)>
