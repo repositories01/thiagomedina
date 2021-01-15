@@ -3,7 +3,7 @@
 ---- 
 
 
-I'm a Front-End Developer. <br/>
+I'm a Fullstack Developer. <br/>
 Which it believes that can learn anything, i'm always looking to evolve in Web development, creating systems, APIs and Web pages.<br/>
 Using Javascript both on the front-end with ReactJS, Redux, CSS, Sass and Bootstrap.<br/>
 And the backend with NodeJS, Express.js MongoDB, Firebase. <br/>
