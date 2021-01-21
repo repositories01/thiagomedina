@@ -4,7 +4,7 @@
 
 
 I'm a Fullstack Developer. <br/>
-Which it believes that can learn anything, i'm always looking to evolve in Web development, creating systems, APIs and Web pages.<br/>
+Which believes it is possible to learn anything, i'm always looking to evolve in Web development, creating systems, APIs and Web pages.<br/>
 Using Javascript and Typescript both on the front-end with ReactJS, Redux, CSS, Sass and Styled Components.<br/>
 And the backend with NodeJS, Express.js MongoDB. <br/>
 I also have knowledge in PHP, OOP, MVC and relational databases like MYSQL.<br/>
