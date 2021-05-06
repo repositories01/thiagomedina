@@ -3,7 +3,7 @@
 ---- 
 
 
-I'm a Web Developer. <br/>
+I'm a Frontend Developer. <br/>
 Which believes it is possible to learn anything, i'm always looking to evolve in Web development, creating systems, APIs and Web pages.<br/>
 Using Javascript and Typescript both on the front-end with ReactJS, Redux, CSS, Sass and Styled Components.<br/>
 And the backend with NodeJS, Express.js MongoDB. <br/>
