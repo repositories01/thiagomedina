@@ -4,11 +4,31 @@
 
 
 I'm a Frontend Developer. <br/>
-Which believes it is possible to learn anything, i'm always looking to evolve in Web development, creating systems, APIs and Web pages.<br/>
-Using Javascript and Typescript both on the front-end with ReactJS, Redux, CSS, Sass and Styled Components.<br/>
-And the backend with NodeJS, Express.js MongoDB. <br/>
-I also have knowledge in PHP, OOP, MVC and relational databases like MYSQL.<br/>
-I'm always open to learning new technologies, I am currently learning more about automated tests.</br>
+I believe that it is possible to learn anything.<br/>
+On focus on web development, I seek a deep knowledge of the Javascript / Typescript ecosystem, tryning don't depend on abstractions.
+
+Experience in:
+- Javascript
+- Typescript
+- HTML
+- CSS
+- Styled-components
+- SASS
+- React
+- Redux
+- Redux-saga
+- NodeJs
+- PHP
+- SQL
+- MongoDB
+
+Studying:
+- Design Patterns
+- TDD
+- Refactoring and code smells
+
+Open to learning new
+technologies.
 
 
 ----
