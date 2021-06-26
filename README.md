@@ -21,8 +21,6 @@ Experience in:
 - PHP
 - SQL
 - MongoDB
-
-Studying:
 - Design Patterns
 - TDD
 - Refactoring and code smells
